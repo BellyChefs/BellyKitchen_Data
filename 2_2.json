@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "title": "Bolognese pasta",
+  "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/2_2.png",
+  "ingredients": "salt, pepper, noodles, water, oil, mushrooms, tomatoes, chicken",
+  "duration": "2 hours",
+  "description": "Known as Bolognese in Italy, these classic slow-simmered sauces are often a Sunday treat at Nonna's house. Our best ever spaghetti bolognese is super easy and a true Italian classic with a meaty, chilli sauce. This recipe comes courtesy of BBC Good Food user Andrew Balmer.",
+  "steps": [
+    {
+      "id": 1,
+      "description": "We start by boiling the water"
+    },
+    {
+      "id": 2,
+      "description": "We cook the pasta"
+    },
+    {
+      "id": 3,
+      "description": "We fry the chicken and mushrooms"
+    },
+    {
+      "id": 4,
+      "description": "We add spices according to taste"
+    },
+    {
+      "id": 5,
+      "description": "We mix everything and voila! Enjoy!"
+    }
+  ]
+}
