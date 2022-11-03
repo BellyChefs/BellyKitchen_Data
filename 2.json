@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Russia",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/russia.png"
+  },
+  {
+    "id": 2,
+    "title": "Italy",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/italy.png"
+  },
+  {
+    "id": 3,
+    "title": "Japan",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/japan.png"
+  },
+  {
+    "id": 4,
+    "title": "Germany",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/germany.png"
+  },
+  {
+    "id": 5,
+    "title": "India",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/india.png"
+  },
+  {
+    "id": 6,
+    "title": "China",
+    "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/china.png"
+  }
+  
+]
