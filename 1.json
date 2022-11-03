@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Popular",
+    "meals": [
+      {
+        "id": 1,
+        "title": "Carbonara pasta",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Fettucino pasta",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Spaghetti",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Bolognese",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      }
+    ]
+    
+  },
+
+
+  {
+    "id": 2,
+    "title": "Spicy",
+    "meals": [
+      {
+        "id": 1,
+        "title": "Japanese pasta",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Chalapeno",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Tempura",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Kimchi",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      }
+    ]
+    
+  },
+  {
+    "id": 3,
+    "title": "Sweet",
+    "meals": [
+      {
+        "id": 1,
+        "title": "Sweet pasta",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Another pasta",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Sweet dessert",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Ice cream",
+        "short_description": "Very deliscious italian pasta",
+        "image": "https://raw.githubusercontent.com/BellyChefs/BellyKitchen_Data/main/1.jpg"
+      }
+    ]
+    
+  }
+  
+    
+  
+]
